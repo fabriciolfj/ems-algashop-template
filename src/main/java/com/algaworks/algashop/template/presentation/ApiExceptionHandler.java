@@ -1,8 +1,9 @@
 package com.algaworks.algashop.template.presentation;
 
 
-import com.algaworks.algashop.template.domain.model.DomainEntityNotFoundException;
-import com.algaworks.algashop.template.domain.model.DomainException;
+
+import com.algaworks.algashop.template.model.DomainEntityNotFoundException;
+import com.algaworks.algashop.template.model.DomainException;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.MessageSource;
